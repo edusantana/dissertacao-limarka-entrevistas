@@ -1,0 +1,74 @@
+Background
+    Formação Acadêmica
+        Engenharia da computação, faltam 5 semestres.
+    Escrita
+        Escreveu artigo em disciplina, nunca publicou.
+    Carreira futura
+        Desenvolvimento de aplicativos. Nào para acadêmico.
+    ABNT
+        Palavras em estrangeiro
+            Deve conter um número mínimo de palavras em estrangeiro. Utiliza muita parte teórica.
+            Provavelmente sugeriram utilizar referencias em inglês.
+        Citação indireta/direta
+            colocar nome do autor, livro, site de onde foi tirado. indireta nõa necessita informar.
+        Citação com mais/menos de três linhas
+            Não sabe.
+        Referências Artigo/Livro/Site
+            SOBRENOME, Título, edição, ano.
+        Figura
+            De onde foi retivada, site, data/hora da visita. Figura 1, figura 2, legenda.
+        Tabela
+            Botar legenda, similar figura
+        Apêndices/Anexos
+            Não sabe.
+    Informática/Comandos
+        Relativamente boa, a partir do curso. Habituado a programar e utilizar IDE.
+    Latex
+        Utilizou três vezes, de forma colaborativa através da web. Artigo e relatório.
+    Markdown
+        Não conhecia.
+    Github
+        Passou a conhecer devido ao estágio.
+Experimento
+    Ambiente utilizado e Instalação
+        Windows.
+        Instalação simples, problema 32 vs 64 bits. Leitor de PDF.
+    Sentimentos durante o experimento/utilização
+        Bastante legal, um pouco perdido pq não lembrava como escrever artigos.
+    Ferramenta
+        Configuração
+            Legal e didática. Intuitivo, tira dúvidas pelo chat.
+        Execução
+            Legal. Demora na primeira vez. Utilizou linha de comando.
+    Recursos utilizados
+        Capa, Folha de rosto e Resumo
+            Tranquilo, bastava preencher o formulário.
+        Palavras em estrangeiro
+            Utilizou
+        Citação indireta/direta e/ou com mais/menos de três linhas
+            teve dificuldade pq não sabia o que era/como fazer. Não editou o arquvo de referências.
+        Referências Artigo/Livro/Site
+            não.
+        Figura
+            Adicionou através do menu interativo
+        Tabela
+            Adicionou através do menu interativo e editou manualmente
+            Quando descobre a sintaxe fica fácil.
+        Apêndices/Anexos
+            Não utilizou.
+    Markdown
+        Sintaxe
+            Foi bem, não teve dificuldades. Teve dificuldades na escrita do conteúdo.
+            Gostou pq só faz colocar as informações.
+        Limitações da Sintaxe / Código latex
+Uso futuro
+    Utilizaria? Para quem recomendaria?
+        Recomenda para os alunos de engenharia (computação).
+    Ferramenta provável de utilização
+        Antes do experimento
+            Provavelmente Latex pq é os professore recomendam latex.
+        Depois
+            Passaria a utilizar
+            Fica mais fácil de utilizar e não precisa lidar com as regras do latex
+    Resumo em uma única frase sobre experiência
+        Agilidade e bem estar no uso da ferramenta.
