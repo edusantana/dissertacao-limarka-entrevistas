@@ -1,0 +1,96 @@
+Background
+    Formação Acadêmica
+        - Ciência computação 2 período, metodologia cursado. próximo pesquisa aplicada a computação.
+    Escrita
+        - nunca escreveu artigos, mas leu.
+    Carreira futura
+        Pretende seguir Carreira acadêmica
+    ABNT
+        Palavras em estrangeiro
+            - não sabe
+        Citação indireta/direta
+            Sabe o que é
+            Sabe formatação
+        Citação com mais/menos de três linhas
+        
+        Referências Artigo/Livro/Site
+            Já utilizou pacote do office que faz a referência automática.
+        Figura
+            Fonte abaixo, referência da figura. Numeração da figura. 
+        Tabela
+            Proavelmente semelhante a utilzaçào de imagens. Acredita que há uma distinção se ele for o autor da tabela ou utilizando a tabela produzida por outra pessoa.
+        Apêndices/Anexos
+            Não sabe o significado das seções.
+    Informática/Comandos
+        Utilizou dois sistemas Linux. Gosta de comandos de linha. Experiencia em instalação/remoção de programas. Utiliza no cotidino.
+    Latex
+        Nunca utilizou, mas já houviu pessoas falres a respeito. Professor utilizava.
+    Markdown
+        Já havia percebido que os READMEs no github tinha extensão .md, mas não conheceu pela primeira vez no experimento.
+        Nunca havia editado.
+    github
+        Possui 4 repositórios, habituado a realizar commits com o git. considera-se iniciante.
+Experimento
+    Ambiente utilizado e Instalação
+        Windows 8.1 Laboratório de robótica na ufpb. Sala de desenvovlimento.
+        Instalação seguindo tutorial no site e auxílio do instrutor.
+        Problemas devido ao ruby, precisou utualizar.
+    Sentimentos durante o experimento/utilização
+        Achou interessante, gosta de aprender.
+        Mesmo não compreendendo o que estava sendo pedido pelo experimento, realizou.
+        Não fez todos.
+        Nunca viu nada parecido
+        Como já utilizava linhas de comando "fluiu naturalmente".
+    Ferramenta
+        Configuração
+            Achou interessante, pq já mostrava formatado.
+            Nunca havia utilizado um formulário em PDF.
+        Execução
+            Na primeira vez demorou bastante, pensou que havia travado.
+            Mas nas próximas vezes foi fácil.
+            Quando alterava os arquivos markdown e configuração e executando através de `limarka exec` já aparecia o arquivo formatado. Quebra de linha era um parágrafo.
+            Gostou de poder utilizar o mesmo editor de texto que ele utiliza no dia a dia, sublime ou notepad++. Se adapta melhor pois já utiliza o mesmo ambiente de trabalho.
+            Instalou o corretor ortográfico
+            Invocou o menu-interatico através da linha de comando e limarka help e 
+    Recursos utilizados
+        Capa, Folha de rosto e Resumo
+            Manualmente não saberia fazer sozinho e teria que pesquisar.
+            Rápido, questão de segundos.
+        Palavras em estrangeiro
+            Não formatou palavras em inglês.
+        Citação indireta/direta e/ou com mais/menos de três linhas
+            Fez citação direta com mais de três linhas com sinal de maior e \cite.
+            Teve ajuda/suporte de colega para configurar o arquivo de referências.
+        Referências Artigo/Livro/Site
+            Não viu como ficou as referências.
+        Figura
+            Não colocou devido ao tempo, tentou sozinho em casa não conseguiu em casa.
+            Errou ao colocar o path, .
+            Não consultou a ajuda para descrobir como utilizar figuras.
+        Tabela
+            Não utilizou.
+        Apêndices/Anexos
+            Não sabia o que significava, não tentou.
+    Markdown
+        Sintaxe
+            Fácil e simples de utilizar.
+            Achou que trás benefícios em utilização.
+            Costuma acessar documentação README nos repositórios do github.
+        Limitações da Sintaxe / Código latex
+            Não percebeu limitação.
+Uso futuro
+    Utilizaria? Para quem recomendaria?
+        Recomendaria para os colegas da turma.
+        Convencer colega para utilizar e obter o feedback dele.
+        Público álvo: engenharia, computação
+    Ferramenta provável de utilização
+        Antes do experimento
+            Pagar para alguém corrigir/adapatar às normas.
+            Escrever no LibreOffice, pq utiliza linux.
+        Depois
+            Pretende aprender um pouco mais do markdown.
+            Agrada o nosso perfil que gosta de invocar comandos.
+            Convencer colega para utilizar e obter o feedback dele.
+            Pretende utilizar
+    Resumo em uma única frase sobre experiência
+        O limarka para mim tornou-se uma experiência inovadora para escrita de TCC.
