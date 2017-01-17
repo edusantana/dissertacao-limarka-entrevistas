@@ -1,0 +1,75 @@
+Background
+    Formação Acadêmica
+        Engeiro elétrico, Trabalho em empresa
+        Atualmente fazendo mestrado.
+    Escrita
+        TCC
+        4 Artigos durante graduaçào e mestrado
+    Carreira futura
+        Sim, pretende ser professor.
+    ABNT
+        Palavras em estrangeiro
+            itálico
+        Citação indireta/direta
+            Sabe o que é, mas não sabe como realizar.
+        Citação com mais/menos de três linhas
+            Não sabe como reallizar
+        Referências Artigo/Livro/Site
+            Fez na graduação, utilizou latex, e bliboteca, nunca precisou aprender pq utilizou latex.
+        Figura
+            Legenda e numeração
+        Tabela
+            Legenda e numeração
+        Apêndices/Anexos
+            Não sabe.
+    Informática/Comandos
+        Trabalho com comandos há muito tempo.
+    Latex
+        Só utiliza latex para tudo.
+    Markdown
+        Nunca utilizou nem houviu falar.
+Experimento
+    Ambiente utilizado e Instalação
+        Linux, meu computador. sem instalação
+    Sentimentos durante o experimento/utilização
+        Confortável.
+    Ferramenta
+        Configuração
+            Simples, autoexplicativo. Ele copiava texto e colava no editor. Tudo numa linha só. Dificultou a edição devido ao visualisado do pdf.
+        Execução
+            Simples com o menu e linha direta.
+    Recursos utilizados
+        Capa, Folha de rosto e Resumo
+            Super simples. Só no clique. Precisa inserir o comando? No latex precisava configurar para utilização correta. Usa o overleaf, o modelo da instituição não rodava no overleaf por isso que precisa customizar inserindo comandos.
+        Palavras em estrangeiro
+            Simples utilizando comando latex.
+        Citação indireta/direta e/ou com mais/menos de três linhas
+            Utilizou citaçào indireta como no latex, copiou e colou código latex que fazia referências.
+            Não utilizou citação com mais de três linhas.
+            Não teria dificuldades em realizar.
+        Referências Artigo/Livro/Site
+            Não teve dificuldade. teve problemas quando copiou as referências do overleaf e colou no arquivo de referências. Já teve essa dificuldade antes quando tentava rodar localmente. Problema com os links.
+        Figura
+            Simples, copiou o código latex utilizado. Não leu as intruções por isso utilizou sem as fontes.
+        Tabela
+            Colou uma tabela já utilizada, faltando fonte. Já sente-se confortável com tabelas em latex, utiliza sem ajuda da interface.
+        Apêndices/Anexos
+            Gerou mas não editou.
+    Markdown
+        Sintaxe
+            Bem mais simples que Latex.
+        Limitações da Sintaxe / Código latex
+            Não identifico a limitação.
+Uso futuro
+    Utilizaria? Para quem recomendaria?
+        Para quem já tem o texto pronto. E precisa formatar o texto.
+        Recomenda assim: escreva aonde quiser, depois cole dessa forma e que você irá conseguir gerar.
+    Ferramenta provável de utilização
+        Antes do experimento
+            Latex overleaf online.
+        Depois
+            Dúvida se utilizaria, para evitar o problema em ter que configurar o latex novamente. Mesmo utilizando as bibliotecas teve problema em configurar. Teve que refazer depois, configurou coisas que depois precisou refazer.
+            O problema foi pq utilizou um modelo errado na produção do trabalho.
+    Resumo em uma única frase sobre experiência
+        Simples de usar. Até mesmo se tivesse que escrever a partir do exemplo.
+        É simples de utilizar.
