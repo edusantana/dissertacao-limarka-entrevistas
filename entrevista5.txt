@@ -1,0 +1,75 @@
+Background
+    Formação Acadêmica
+        Engenharia de computaçãp, 7 periodo.
+        Interessado em Eletrônica.
+    Escrita
+        Já escreveu artigo em disciplinas mas nunca submeteu.
+    Carreira futura
+        Eltrônica e sistemas embarcados. Talvez fazer mestrado.
+    ABNT
+        Palavras em estrangeiro
+            Itálico
+        Citação indireta/direta
+            Não saberia explicar a diferênça. Sabe que precisa referenciar.
+        Citação com mais/menos de três linhas
+            Não sabe explicação formal.
+        Referências Artigo/Livro/Site
+            Não lembra mas sabe que precisa, autor, ano, edição se for livro.
+        Figura
+            legenda e fonte
+        Tabela
+            legenda e fonte, precisa de lista de tabela e fonte antes do sumário.
+        Apêndices/Anexos
+            Partes explicativas que não entram no trabalho.
+    Informática/Comandos
+        Habituado em utilizar alguns comandos.
+    Latex
+        Utilizou para elaborar artigo. Mictex no Windows. Teve problema com acentos que precisava escapar os acentos. Qualquer palavra no documento tinha problema com acentos.
+    Markdown
+        Não utilizou.
+    github
+        utilizava conta dos colegas.
+Experimento
+    Ambiente utilizado e Instalação
+        Windows 8.1.
+        Instalação simples, sequência de instalação de aplicativos a partir de pendrive.
+        Instalou corretor ortográfico.
+    Sentimentos durante o experimento/utilização
+    Ferramenta
+        Configuração
+            Simples, didática, sem problemas.
+        Execução
+            sem problemas de execução
+            Pegava código de imagem diretamente do github
+    Recursos utilizados
+        Capa, Folha de rosto e Resumo
+            0 problema, muito simples, muito explicativo.
+        Palavras em estrangeiro
+            Não utilizou, mas lembra como fazer itálico.
+        Citação indireta/direta e/ou com mais/menos de três linhas
+            Não utilizou referências.
+        Referências Artigo/Livro/Site
+            Não viu.
+        Figura
+            Problema ao copiar o código do github. Adicionava imagem mas teve algum problema de renderizaçao.
+        Tabela
+            Adicinou uma nova tabela, e editaria sem problemas.
+        Apêndices/Anexos
+            Não utilizou.
+    Markdown
+        Sintaxe
+            Gostou, simples. Se for fazer necessita de muitos detalhes, ferramenta era muito explicativa.
+        Limitações da Sintaxe / Código latex
+            Não percebeu.
+Uso futuro
+    Utilizaria? Para quem recomendaria?
+    Ferramenta provável de utilização
+        Antes do experimento
+            Proavelmente mictex, com o modelo disponibilizado pelo curso.
+            Pq não conhecia
+            Preferia utilizar o latex devido a formatação de acordo com os critérios. 
+        Depois
+            Utilizar o limarka
+    Resumo em uma única frase sobre experiência
+        Ferramenta simples, cômoda e fácil de utilizar.
+        Simples, compacta e cômoda.
