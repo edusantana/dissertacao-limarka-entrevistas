@@ -1,0 +1,39 @@
+Background
+    Formação Acadêmica
+    Escrita
+    Carreira futura
+    ABNT
+        Palavras em estrangeiro
+        Citação indireta/direta
+        Citação com mais/menos de três linhas
+        Referências Artigo/Livro/Site
+        Figura
+        Tabela
+        Apêndices/Anexos
+    Informática/Comandos
+    Latex
+    Markdown
+Experimento
+    Ambiente utilizado e Instalação
+    Sentimentos durante o experimento/utilização
+    Ferramenta
+        Configuração
+        Execução
+    Recursos utilizados
+        Capa, Folha de rosto e Resumo
+        Palavras em estrangeiro
+        Citação indireta/direta e/ou com mais/menos de três linhas
+        Referências Artigo/Livro/Site
+        Figura
+        Tabela
+        Apêndices/Anexos
+    Markdown
+        Sintaxe
+        Limitações da Sintaxe / Código latex
+Uso futuro
+    Utilizaria? Para quem recomendaria?
+    Ferramenta provável de utilização
+        Antes do experimento
+        Depois
+    Resumo em uma única frase sobre experiência
+
