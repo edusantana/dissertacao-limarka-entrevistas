@@ -1,39 +1,73 @@
 Background
     Formação Acadêmica
-    Escrita
+        Engenheiro Florestal. Atualmente cursando mestrado em Ciências florestais.
+    Escrita científica
+        Fez monografia e 4 artigos publicados em periódicos, escrevendo mais dois artigos na área de fito-sociologia. Escritos no MS-Word 2010. Que utiliza desde a graduação. Muito prática, aprendeu rápido.
     Carreira futura
+        Acadêmica.
     ABNT
         Palavras em estrangeiro
+            Não sabe.
         Citação indireta/direta
+            Sabe o que são.
         Citação com mais/menos de três linhas
+            Sabe utilizar e formatar. Apesar de ter feito errado no documento.
         Referências Artigo/Livro/Site
+            Acima de três autores, prefere utilizar todos os autores para dá créditos. Após citação dos autores, título, nome da revista, volume, numero, página e ano de publicação. Em alguns casos cidade da revista. Mas depende da revista. E coloca o DOI ou o url do PDF. Citação de livro, caso não tenha subtítulo com dois pontos, subliha o título. No caso de artigo, coloca em negrito. No caso das referências, utiliza-se apenas negrito.
         Figura
+            Cabeçalho em cima, e em baixo a fonte e o ano.
         Tabela
+            Da mesma forma. Colocamos em cima o título, antes do título a numeração para seguir ordem. E abaixo podemos colocar rodapé. Se for uma tabela adaptada de outro autor, utilizamos a fonte. Se não for, não precisa.
+            Sabe diferença entre formatação da tabela e quadros.
         Apêndices/Anexos
+            Sabe a diferença.
     Informática/Comandos
+        Nunca inseriu comandos antes.
     Latex
+        Nunca utilizou.
     Markdown
+        Também não.
 Experimento
     Ambiente utilizado e Instalação
+        Windows 7. Não precebeu que precisava descompactar o arquivo zip.  O windows abria de forma transparente.
     Sentimentos durante o experimento/utilização
+        Sentiu dificuldades, pois não é algo que faz. Só costuma utilizar o Word e Excel, copiando e colando. E a utilização do limarka foi uma coisa nova porque precisava deixar aberto três abas [janelas].
+        Utiliza o notepad apenas para limpar formatação antes de colar no Word. Dificilmente utiliza o bloco de notas. Nunca havia editado um arquivo somente texto.
     Ferramenta
         Configuração
+            Foi um pouco diferente. Foi fácil, simples e prático. Não precisamos ficar editando o arquivo do Word. Ficamos despreocupados em editar o arquivo, porque no Word se abrir o arquivo em outro computador, com uma versão diferente, há uma desconfiguração do arquivo.
         Execução
+            De ininício pareceu um pouco complicado, mas vai se acostumando a com novidade e vais se tornando prático. Mas de início há um pouco de dificuldade porque não é uma coisa que fazemos no dia a dia.
     Recursos utilizados
         Capa, Folha de rosto e Resumo
+            Foi simples. Com o uso de alguns códigos que a ferramenta já disponibiliza. É gerado o PDF já com essas informações. No Word teria que colocar tudo, na ferramenta já está estruturado, amarrado.
+            Na monografia, formatou tudo desde o começo. No limarka se demonstrou bem mais prático, e bem amarrado nas normas da ABNT. Não tem o problema de esquecer algum tópico [elemento].
         Palavras em estrangeiro
+            A gente consegue colocar negrito, sublinhar, itálico. Com asterisco.
         Citação indireta/direta e/ou com mais/menos de três linhas
+            A primeira citação foi um pouco complicada. Mas seguindo o manual do limarka, a gente consegue facilitar a introdução dessas citações. Pela praticidade de que já tem Word, e não ter costume.
+            FOI UM POUCO DIFERENTE, PRA GENTE QUE JÁ TRABALHA NO WORD. MAS AO FINAL, FICA ALGO BEM BACANA, PORQUE AO CITAR NO TEXTO, COM UM CLIQUE A GENTE VAI NAS REFERÊNCIAS E LOCALIZA A REFERÊNCIA E VICE E VERSA, NAS REFERÊNCIAS CLICAMOS E VOLTA PARA A CITAÇÃO NO TEXTO ATRAVÉS DO NÚMERO DA PÁGINA. DEIXANDO MAIS FÁCIL A LOCALIZAÇÃO E O NÃO ESQUECIMENTO DE UMA DESSAS CITAÇÕES QUANDO CITADAS NOS TEXTOS E NAS REFERÊNCIAS, QUE É O QUE OCORRE MUITO EM MONOGRAFIAS E DISSERTAÇÕES.
         Referências Artigo/Livro/Site
+            FOI UM POUCO DIFERENTE DO COSTUME, PQ TINHA UNS CÓDIGOS, QUE NÃO TÁ HABITUADO A UTILIZADO NO DIA A DIA. DIFERENTE DO WORD QUE A GENTE JÁ APRENDENDEU DESDE A GRADUAÇÃO A FAZER SEGUNDO AS NORMAS. TENDO UM POUCO DE DIFICULDADE EM ALGUMAS CITAÇÕES, MAS DEPOIS A PESSOA VAI PEGANDO O JEITO.
         Figura
+            A gente salva a imagem, numa pastinha, que a gente abre para baizar o arquivo. dela a gente insere no texto, utilizanod o menu interativo com outro códigozinho, já dentro das normas da abnt. Referenciou a figura, ficou bem bacana, pq a pessoa pode clicar e vai direto para figura.
         Tabela
+            Foi um pouco mais trabalhoso que a figura, pq precisa saber de acordo com o código qual o número de colunas que vai utilizar e de seções. Habitualmente faz no excel, bem prático de fazer, e para colocar no Word é só copiar e colar. E no Word faz a formatação da tabela.
         Apêndices/Anexos
+            Não chegou a fazer.
     Markdown
         Sintaxe
+            Foi fácil para inserir tópicos. "É fácil a pessoa vai no menu interativo e nele inserir o tópico, não é isso?"
         Limitações da Sintaxe / Código latex
+            
 Uso futuro
     Utilizaria? Para quem recomendaria?
+        Para os estudantes de Engenharia florestal, achoq ue o pessoal sentiria dificuldades, difereten do Word e Excel que são bem tradicionais nos cursos de engenharia florestal. Mas acho que o pessoal sentirial dificuldades, mas por se uma coisa nova, que está se inserindo agora. Mas ainda acho que utilizando o Word e Excel.
     Ferramenta provável de utilização
         Antes do experimento
+            Word.
         Depois
+            Word.
     Resumo em uma única frase sobre experiência
+       Complicado mas prático. 
 
