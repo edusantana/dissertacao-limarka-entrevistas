@@ -1,0 +1,86 @@
+Background
+    Formação Acadêmica
+      Ensino técnico em Instituto Federal, Graduação em Cieência da Computação.
+    Escrita
+      Utiliza normas de congressos e simbósios que participou.
+    Carreira futura
+    ABNT
+            Consulta materiais quando necessita
+        Palavras em estrangeiro
+            Itálico
+        Citação indireta/direta
+            Direta exatamente como autor escreveu, utiliza aspas.
+            Indireta usa própria palavras
+        Citação com mais/menos de três linhas
+            Com mais utiliza espaçamento.
+        Referências Artigo/Livro/Site
+            É a última seção (em artigos), cada "local" [congresso] utiliza modelo específico.
+        Figura
+            Nao tem conhecimento.
+        Tabela
+            Nao tem conhecimento.
+        Apêndices/Anexos
+            São opcionais, numerados com letras.
+    Informática/Comandos
+        Habituado a utilizar.
+    Latex
+        Utiliza sharelatex on-line, nunca utilizou local.
+    Markdown
+        Já utilizando realizando documentaçào no github, READMEs. trabalhando com web já utilizou.
+Experimento
+    Ambiente utilizado e Instalação
+        Laboratório, Windows 8.1.
+        Instalação a partir de pen-drive. Instalando cada. Instalação fácil, acostumado a fazer. Prestar atenção para instalar instalar as dependências corretas. [x86 ou x64]
+        Teve problema na instalação do Corretor ortográfico no notepadd++, falou baixar o dicionário do idioma português.
+    Sentimentos durante o experimento/utilização
+        Foi muito fácil de colocar para funcionar. Apenas teve problemas irrelevantes. Sem dificuldades.
+    Ferramenta
+        Configuração
+            Fácil pois bastava preencher um formulário no PDF, e está habituado a preencher formulários.
+        Execução
+            Utilizou linha de comando no windows, limarka exec. Foi tranquilo. Preferiu utilizando comandos.
+    Recursos utilizados
+        Capa, Folha de rosto e Resumo
+            Eram gerados automaticamente. Fez o resumo digitando no formulário.
+        Palavras em estrangeiro
+            Colocou em itálico com *
+        Citação indireta/direta e/ou com mais/menos de três linhas
+            Fez as duas, utilizando >
+        Referências Artigo/Livro/Site
+            Teve problema com referências. colocou todas referências no arquivo .bib, mas só utilizou duas durante o texto. Quando gerava o pdf não apareceu as referências. Depois que citou a última todas as outras apareceram.
+            Utilizou referências numéricas devido a ser recomendado na documentaçào.
+            Prefere a alfabética, acha melhor para ler.
+        Figura
+            São inseridas como latex. Só precisou colocar na pasta específica, como já tinha conhecimento utilizou os comandos que já tinha salvo em algum lugar.
+            
+        Tabela
+            Semelhante ao latex, também foi fácil utilizar.
+        Apêndices/Anexos
+            Não utilizou.
+    Markdown
+        Sintaxe
+            Já tiha utilizado, é muito bom de utilizar pq se preocupa com o conteúdo, e utiliza apenas ferramentas textuais [marcações] só para marcar o que quer no texto.
+        Limitações da Sintaxe / Código latex
+            Não percebeu.
+            Pq não utilizou código markdown?  tinha mais experiencia em latex. Não sabe a sintaxe de Markdown decorada, preferiu copiar e colar os comandos latex.
+Uso futuro
+    Utilizaria? Para quem recomendaria?
+        Utilizaria, mas precisava entender um pouco mais sobre a ferramenta e markdown. Por enquanto tem mais experiência com o latex e mudar seria trabalhoso.
+        A universidade já possui um modelo em Latex, que é totalmente diferente das regras da ABNT. Utilizaria o modelo da instituição. Se não tiverem nas regras da 
+        Se ambos os modelos fossem aceitos:
+        Se a coordenação do curso aceitasse o modelo produzido pelo limarka, preferia utilizar ele do que o sharelatex, mesmo tendo que instalar e utilizar as ferramentas localmente.
+        Prefere o limarka pq deixa as normas da ABNT transparente para ele.
+        Já inseriu imagens em markdown, mas não sabe a sintaxe. Utilizar mas precisaria entrender um pouco mais da ferramenta como um todo, de utilizar o markdown e o latex. No momento eu tenho mais experiência com o latex, e para você mudar e fazer isso...
+        Mas sim, com certeza.
+        No trabalho final. Aqui nós temos um modelo em latex, que inclusive é totalmente diferente, inclusive eu nem sei se é abnt. Mas é totalmente diferente do que é apresentado aqui no experimento. então se [o modelo] tivesse seguindo todas as normas da abnt e tem um modelo no latex então eu utilizaria o latex. Senão, se não estiver nas regras da abnt, eu não sei se realmente está, eu utilizaria o limarka pq eu realmente não tenho conhecimentos sobre a abnt e ele já deixa isso transparente para mim.
+        Supondo que a instituição também aceite o limarka.
+        Se o resultado final fosse aceito, independente do modelo utilizado. O limarka é mais simples de utilizar do que latex, é mais transparente pra gente não precisa saber tanto... nenhuma linguagem específica. [[é como se o markdown não fosse uma linguagem e foi reduzido a algumas marcações de formatação.]]
+        Recomendaria para os usuários que utilizam o pacote office, o word, que não tem conhecimento específico de ferramenta como o Latex. que tem muitos problemas com formatação. Mas que também não querem ou não tem tempo para aprender o latex, por ser bastante complicado. o limarka ele está nesse meio termo, nessa zona de segurança. Eu tou falando em curva de aprendizado. Pq o word todo mundo está acostumado a utilizar, mas ele também tem muitas limitações e trás muitos problemas. e latex ele já é muito complicado para quem nunca teve experiência com isso. ele está no meio termo. Para pessoa que está acostumada a utilizar o programa como o Office.
+        
+    Ferramenta provável de utilização
+        Antes do experimento
+        Depois
+        
+    Resumo em uma única frase sobre experiência
+        com a ferramenta o limarka, você consome mais tempo se preocupando com o conteúdo do seu trabalho do que com a formatação.
+
