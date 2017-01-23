@@ -1,0 +1,71 @@
+Background
+    Formação Acadêmica
+        Engenharia ambiental. Está iniciando o segundo período.
+    Escrita
+        Nunca publicou, escreveu para aula de Introdução a Metodologia.
+    Carreira futura
+        Não acadêmico.
+    ABNT
+        Palavras em estrangeiro
+            Itálico.
+        Citação indireta/direta
+            Sabe o que é e como formatar. Mas não tem certeza.
+        Citação com mais/menos de três linhas
+            Não sabe estruturar, identifica visualmente pelo espaço.
+        Referências Artigo/Livro/Site
+            Já fez incorretamente.
+        Figura
+            Tem que colocar de onde tirou e colocar uma legenda.
+        Tabela
+            Tem que mencionar no texto, isto está na tabela tal. na figura também.
+        Apêndices/Anexos
+            Não sabe a respeito.
+    Informática/Comandos
+        Nunca utilizou. Nunca abriu o terminal.
+    Latex
+        Não sabe.
+    Markdown
+        Não sabia.
+    github
+        não sabe.
+Experimento
+    Ambiente utilizado e Instalação
+        Utilizou Windows com tudo instalado.
+    Sentimentos durante o experimento/utilização
+        Na parte da leitura para aprender foi um pouco cansativo, mas quando começa a mecher é mais fácil, bem intuitivo.
+    Ferramenta
+        Configuração
+            Fácil, é só olhar para encontrar o que precisa mecher.
+        Execução
+            Não conhecia nenhum dos comandos,  mas fácil de utilizar quando você conhece. Menu interativo.
+    Recursos utilizados
+        Capa, Folha de rosto e Resumo
+            Foi simples, foi só trocar os dados.
+        Palavras em estrangeiro
+            Não colocou, Esqueceu das normas, talvez teria um pouco de dificuldade.
+        Citação indireta/direta e/ou com mais/menos de três linhas
+            Foi um pouquinho difícil, mas consegui fazer depois. Porque só fez citações uma vez [na disciplina] e acha que fiz incorreto.
+            [Não chegou a ler a documentação para realizar corretamente.]
+        Referências Artigo/Livro/Site
+            Foi mais fácil do que as citações. Não precisa lembrar como fazer, o programa já deixa pronto. E não sabia como fazer. O que dificulta é ter que configurar o arquivos referencias.
+        Figura
+            [Teve dificuldades para salvar a figura, estava salvando a página da figura em vez do arquivo.] Não tem costume em fazer.
+        Tabela
+            Foi só copiar e colar e depois modificar e acordo com necessitar. Conseguiria fazer uma nova tabela.
+        Apêndices/Anexos
+            Tem que habilitar no pdf, não foi difícil, é só questão de saber o que precisa fazer.
+    Markdown
+        Sintaxe
+        Limitações da Sintaxe / Código latex
+Uso futuro
+    Utilizaria? Para quem recomendaria?
+        Recomendaria para pessoas de computação, pq tem que mecher com essa tela preta e linha de código. Para quem faz computação deve ser mais fácil, porque vocês estão mais acostumado com esse jeito de fazer as coisas.
+    Ferramenta provável de utilização
+        Antes do experimento
+            Não perguntei.
+        Depois
+            Limarka. Mesmo habituado a fazer no Word, mas esse aqui é mais direto, faz toda a estrutura para mim. No word eu teria que fazer tudo, passo a passo, todas as coisas. E teria que tomar muito tempo vendo as normas da ABNT, esse aqui é mais direto depois que você aprende a utilizar.
+            [Esse experimento ocorreu no final da tarde. O irmão dele, de Engenharia de computação, havia sido entrevistado pela manhã. Os dois moram juntos.]
+            Quando questionado sobre se seu irmão iria lhe dá suporte: "Com certeza". "Eu confio mais na computação dele do que [o meu conhecimento] nas normas da ABNT".
+    Resumo em uma única frase sobre experiência
+        É complicado no início, mas vale a pena.
