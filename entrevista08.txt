@@ -1,0 +1,70 @@
+Background
+    Formação Acadêmica
+        Estudante de Engenharia de Produção.
+    Escrita
+        Já publicou artigo em congresso. Precisou das regras do congresso.
+    Carreira futura
+        Seguir carreira acadêmica.
+    ABNT
+        Palavras em estrangeiro
+            Itálico.
+        Citação indireta/direta
+            Sabe o que são.
+        Citação com mais/menos de três linhas
+            Sabe que precisa de recuo, mas achou que precisa de aspas.
+        Referências Artigo/Livro/Site
+            Não sabe, pergunta ao google acadêmico.
+        Figura
+            Sempre pesquisa no livro que possui sobre abnt.
+        Tabela
+        Apêndices/Anexos
+            Não sabe sobre apêndices.
+    Informática/Comandos
+        Já pagou comandos em disciplina em introdução a programação, printf. Nunca utilizou fora da disciplina. Mas deve ser útil, pois senão não era ensinado.
+    Latex
+        Nunca houviu falar.
+    Markdown
+        Nunca houviu falar.
+Experimento
+    Ambiente utilizado e Instalação
+        Windows 7, no notebook.
+    Sentimentos durante o experimento/utilização
+        Setiu-se pressionado devido aos colegas que estavam observando-o durante os colegas.
+        Acho útil, mas com muitas etapas. [provavelmente preferia um plugin no word para formatar segundo as normas].
+    Ferramenta
+        Configuração
+            Fácil.
+        Execução
+            Fácil. Mas ter que abrir vários arquivos, ter que fechar antes de executar. Antes de dá um Enter poderia ter um aviso.
+    Recursos utilizados
+        Capa, Folha de rosto e Resumo
+            Fácil e intuitivo.
+        Palavras em estrangeiro
+            Não utilizou.
+        Citação indireta/direta e/ou com mais/menos de três linhas
+            Foi mediano. Não foi muito fácil, nem difícil.
+        Referências Artigo/Livro/Site
+            Mesmo coisa da citação. Conseguiria fazer, mas precisaria ler.
+        Figura
+            Foi mais fácil.
+        Tabela
+            Não fez.
+        Apêndices/Anexos
+            Não utilizou.
+    Markdown
+        Sintaxe
+            "Quem não tem contato com programação se assustaria um pouco."
+            Intuitivo e legal.
+        Limitações da Sintaxe / Código latex
+            Não percebeu.
+Uso futuro
+    Utilizaria? Para quem recomendaria?
+        Recomendaria para acadêmicos que precisam gerar esses trabalhos. Poderia ser extendido para artigos também.
+    Ferramenta provável de utilização
+        Antes do experimento
+            Word.
+        Depois
+            Word. "Mas talvez limarka, após alguns aprimoramentos."
+            Word pq tem mais contato, mais cotidiano.
+    Resumo em uma única frase sobre experiência
+        Experiencia inovado, mas não muito usual. eu tendo mais contato com ela eu usaria com certeza.
