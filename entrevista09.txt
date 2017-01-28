@@ -1,0 +1,71 @@
+Background
+    Formação Acadêmica
+        graduando em Engenharia de computação, no quinto período.
+    Escrita
+        Só escreveu artigos para as disciplinas.
+    Carreira futura
+        Ainda não sabe. Área profissional.
+    ABNT
+        Palavras em estrangeiro
+            
+        Citação indireta/direta
+            Aprendeu no experimento.
+        Citação com mais/menos de três linhas
+            Não sabe.
+        Referências Artigo/Livro/Site
+            Não sabe.
+        Figura
+            Não sabe.
+        Tabela
+            Não sabe.
+        Apêndices/Anexos
+            Não sabe.
+    Informática/Comandos
+        Facilidade em digitar os comandos. Algumas vezes durante a semana digita comandos.
+    Latex
+        Já utilizou no segundo período, porque o professor da disciplina exigia que fosse em Latex. Era solicitado inclusive um código que era gerado pelo latex para comprovar que realmente foi gerado por ele. Começou a utilizar no computador, depois partiu para utilizar na WEB porque não precisa saber os comandos, Overleaf.
+    Markdown
+        Conhecia mas não sabia o nome, conhecia do github. Já fez um README no github porque no período anterior um professor exigia que fosse utilizado o git. Aí precisou fazer o readme, contendo apenas a descrição do trabalho. Não utilizou nenhum código ou imagens no README.
+        Não utiliza o github com frequência, utilizou apenas na disciplina.
+Experimento
+    Ambiente utilizado e Instalação
+        Utilizou ubuntu com tudo instalado.
+    Sentimentos durante o experimento/utilização
+        Tudo bem fácil e intui9tivo, oq ue precisava de explicação tinha no wiki. Pensando nos próximos trabalhos utilizar isso.
+    Ferramenta
+        Configuração
+            "Foi bem fácil, já estava tudo bem explicado. Errar não tinha como. É aqui que você faz isso, e já tinha um exemplo preenchido." OBS: Ele utilizava o bookmark para navegar no documento, então encontrava fácil o que precisava configurar.
+        Execução
+            Foi fácil, na primeira execução demorava alguns segundos, mas nas próximas foi de boa.
+            Preferiu utilizar a linha de comando. Nào experimentou o menu interativo.
+    Recursos utilizados
+        Capa, Folha de rosto e Resumo
+            Foi bem fácil. Não precisava escrever muita coisa, mal precisou digita. Fácil e intuitivo. Comparando com o latex. aqui foi mais rápido. Lá precisava modificar pouca coisa, mas precisava procurar o que precisava configurar. E tinha algumas paradas obscuras em Latex, e aqui eu não precisava me preocupar com isso.
+        Palavras em estrangeiro
+            Não aplicou formatação pq não sabia. Sabia como era formatar itálico.
+        Citação indireta/direta e/ou com mais/menos de três linhas
+            Foi bem fácil, a parte mais complicada era em latex para fazer as referências. Mas já tem pronto, mas na hora de usar era bem fácil.
+        Referências Artigo/Livro/Site
+            Foi só citar e já está feito.
+        Figura
+            Foi bem simples, coloca na pasta e depois se for referenciar é bem fácil. Não chegou a referenciar, mas viu como fazer.
+        Tabela
+            Precisava do comando latez, só ia ter as mesmas dificuldades para procurar no código. Olhou onde deveria modificar a tabela, mas não fez. Não teria dificuldade em editar a tabela.
+        Apêndices/Anexos
+            Habilitou mas não chegou modificá-lo. Foi bem fácil.
+    Markdown
+        Sintaxe
+            Foi bem fácil. Os comandos são bem rápidos e pequenos. Fáceis de utilizar, e que torna rápido de digitar. Sentiríasse bastante confortável em utilizar.
+        Limitações da Sintaxe / Código latex
+            Não percebeu.
+Uso futuro
+    Utilizaria? Para quem recomendaria?
+        Recomendaria para alunos de computação, dá para outros aprenderem mas é que tem gente que não gosta de ficar digitando código. "Aonde esse povo faz os trabalhos? No Word? É muito ruim de manter a formatação no Word. Dá trabalho, demora mais um 'pouquinho'."
+    Ferramenta provável de utilização
+        Antes do experimento
+            Overleaf. Não gosta do Word, só utiliza para trabalhos bem curtos.
+        Depois
+            Limarka.
+    Resumo em uma única frase sobre experiência
+        Rápida e intuitiva.
+

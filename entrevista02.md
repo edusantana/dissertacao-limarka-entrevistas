@@ -9,7 +9,7 @@ Sem nenhuma outra gradfuação.
 
 
 ## Formação Acadêmica
-Graduando em engeharia de computação.
+Graduando em engenharia de computação.
 
 
 
@@ -35,7 +35,7 @@ Não sabe.
 
 # Referências Artigo/Livro/Site
 
-Exercita. Primeiro nome do autor, depois nomde do livro, ano. Aonde está disponível. e a data de acesso.
+Exercita. Primeiro nome do autor, depois nome do livro, ano. Aonde está disponível. e a data de acesso.
 
 #    Figura
 

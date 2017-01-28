@@ -15,7 +15,7 @@ Background
         Citação com mais/menos de três linhas
             Não sabe como reallizar
         Referências Artigo/Livro/Site
-            Fez na graduação, utilizou latex, e bliboteca, nunca precisou aprender pq utilizou latex.
+            Fez na graduação, utilizou latex, e biblioteca. nunca precisou aprender pq utilizou latex.
         Figura
             Legenda e numeração
         Tabela
