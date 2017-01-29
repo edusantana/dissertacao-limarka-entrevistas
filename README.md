@@ -1,4 +1,4 @@
-# dissertacao-limarka-entrevistas
+# Entrevistas do limarka
 
 Entrevistas realizadas com o limarka
 
