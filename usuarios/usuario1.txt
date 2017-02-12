@@ -1,0 +1,150 @@
+# Entrevistas realizada com o Usuário 1
+
+* Como você encontrou o limarka? 
+
+*Eu estava procurando na Internet por algum template para o R Markdown. Daí eu encontrei o site do Abntex, aí depois eu vi que tinha a opção de Escrever em Markdown, aí achei interessante.*
+
+* O que despertou o seu interesse pelo limarka?
+
+Primeiro era usar sintaxe do Markdown e depois não se preocupar com a formatação.
+
+- Qual sua Formação Acadêmica?
+
+*Eu sou psiquiátra infantil. [...] Eu sou formado em Medicina. Depois eu fiz pós-graduação em Psiquiatria, e depois em Psiquiatria infatil.*
+
+- Qual sua experiência profissional?
+
+*Eu sou psiquiátra infantil, trabalho em um consultório e uma clínica.*
+
+- Qual sua experiência na Escrita Científica?
+
+
+*Eu comecei a pouco tempo, depois que comecei o mestrado, faz uns dois anos. [...] Os periódicos onde publiquei os artigos não exigiam as normas da ABNT, utilizavam regras próprias, eu utilizei o Word mesmo para fazer esses daí.
+
+[O seguinte trecho não está presente no áudio, ocorreu em resposta a um questionamento posterior: E você precisou elaborar um TCC em sua graduação?]
+
+Sim, eu o fiz [o TCC] em LibreOffice. Depois, na hora de publicar, tive que passar pra Word e reinserir a bibliografia... Ter que usar o Word é o maior problema pra mim, pois preciso virtualizar o Windows.
+
+- Em que pretende trabalhar quando se formar?
+
+*Pretendo seguir carreira acadêmica*.
+
+- Como você se relaciona com Informática e tecnologias?
+
+*Eu vou bem, eu gosto bastante do R, ainda não utilizei outras linguagens de programação, só o R e o R Markdown também. Já utilizei os softwares de estatística SPCS e o MPLUS.*
+
+[O seguinte trecho não está presente no áudio, ocorreu em resposta a um questionamento posterior: É tão incomum pessoas que não são da área de informática utilizar o Linux, por que você utiliza o Linux?]
+Eu sempre fui o que conserta os computadores da família. Eu comecei pois o Windows exigia uma manutenção periódica, antivírus, anti-trojan, *firewall*, desfragmentador, que multiplicado por 2 ou 3. Além disso, naquela época o Linux funcionava melhor em maquinas mais lentas. Achei inteligente a organização das partições, que quando reinstalava o sistema mantia a maioria das configurações. Ele também não ficava mais lento com o tempo, então passei a ter que atualizar os computadores da minha mãe e irmã a cada 2 ou 3 anos. Então facilitou a vida e me economizou dinheiro, além de me forçar a aprender mais de informática. 
+
+- Qual sua afinidade para executar comandos de linha e instalar programas?
+
+*Eu uso o Linux há bastante tempo, acho que vou bem. Não sei compilar, mas olhando os tutoriais dá pra ir. [Ao ser perguntando sobre comandos de linha:] Utilizo o `apt-get`, eu seu usar o `rm` e outros, mas muito pouco.
+
+- Quais editores de arquivo somente texto já utilizou? Quais são de sua preferência?
+
+*Só o Gedit, não conheço outros. Já tentei o `vim`, mas o `gedit` é mais fácil.*
+
+- Você utilizar alguma IDE no seu trabalho/estudo?
+
+*O R Studio.*
+
+- Descreve sua(s) experiência(s) prévia(s) com Latex.
+
+
+*Nunca utilizei antes. Eu sei que é uma linguagem de programação para escrever textos, e que os textos em gerais ficam muito bonitos do que no Word. Mas parece meio complicado, exige uma curva enorme de aprendizado.*
+
+- Descreve sua(s) experiência(s) prévia(s) com Markdown e/ou outras linguagens de marcação leve. Você sabe decorado quais sintaxes?
+
+*Eu comecei a estudar e a utilizar a pouco tempo, uns três ou quatro meses, mas não publiquei com ele. Utilizei para fazer relatórios, com a sintaxe das análises em R e mandar. É mais para as disciplinas ou para auxiliar os colegas, daí em mando em Markdown. [Sabe decorado a sintaxe de seções, inserir imagens, negrito e itálico]
+
+- Descreve sua(s) experiência(s) prévia(s) com Github.
+
+Não tenho. Eu frequento o site quando eu preciso de ajuda, mas não sei exatamente o que é ou que tem alí.
+
+* Você sabe o que as normas da ABNT *fala* sobre os seguntes itens?
+	* Palavras em estrangeiro: itálico.
+	* Citação indireta/direta: Direta é o trabalho que você está digitando, a indireta é o que é citado no trabalho que você leu. As normas fala que temos que usar o *apud*. Não decorei.
+	* Citação com mais/menos de três linhas: Tem que colocar uma identação especial.
+	* Referências Artigo/Livro/Site: Ordem alfabética, aprendi no limarka, não sabia que poderia utilizar a opção numérica, em geral eu imaginava que era pela ordem alfabética mesmo. Não lembro, eu utilizava o Mendeley, ai ele fazia tudo isso para mim, quando eu fazia no Word.
+	* Figura: não sei.
+	* Tabela/Quadro: não sei, não sei a diferença enter eles.
+	* Apêndices/Anexos. Vão no final do texto. Não sei a diferença dos dois.
+
+## Sobre utilização do limarka na elaboração do TCC
+
+* Qual a temática do seu TCC?
+
+Comportamento suicida em Crianças e Adolescentes.
+
+* Como você encontrou o limarka? 
+* O que despertou o seu interesse pelo limarka?
+* Qual ambiente utilizado? Sistema operacional, Editor de texto, Leitor de PDF e Editor de Referência.
+
+Ubuntu, 16.04, Gedit. O leitor de PDF utilizo o sugerido (pdf-xchange-viewer) e o Evince. Eu utilizo mais o Evince, porque quando executo o menu do limarka ele atualiza o PDF automaticamente, não testes no pdfx -- eu só utilizo ele quando eu preciso marcar o texto (grifar).
+
+* Como você se sentiu ao utilizar a limarka para elaboração do seu trabalho?
+
+Achei bem interessate, no começo achei um pouco estranho. Pq a sintaxe é um pouco diferente, para citar e inserir imagens. Mas depois que a pessoa aprende a usar se torna fácil. Existe uma certa curva de aprendizagem mas também não é tão grande assim. Dá para aprender depois fica bem mais automático. Gostei também porque dá para inserir PDFs no meio do texto, para inserir os artigos que que a pessoa publicou. Isso facilitou bastante, porque a pessoa insere aí já dá a contagem das páginas. Eu nem sei como isso poderia ser feito no Word, imagino que isso não seria fácil.
+
+* Como foi para você a utilização de formulário PDF para configurar o trabalho?
+
+Achei bem legal, não sabia que dava para fazer desse jeito, imaginei que teria que configurar na unha mesmo [manualmente]. A facilidade foi grande alí. No R Markdown, preciso configurar o cabeçalho em YAML, é mais difícil configurar no R Markdown. Eu já tentei alguns templates, ainda estou aprendendo. No limarka foi muito mais fácil, deu certo. No R Markdown a pessoa tem que ficar testando, no HTML fica diferente do PDF. Não acho tão simples utilizar aquele cabeçalho. Achei uma boa escolha utilizar o PDF para configurar. No cabeçalho é complicado, as vezes a pessoa dá um espaço aí não funciona, tem que testar várias vezes.
+
+* Como foi para você execução da ferramenta?
+
+Foi simples, a sintaxe do R Markdown é fácil, acho que o mais difícil é inserir as imagens e os PDFs. Mas depois que aprende fica tranquilo. Para mim executar a ferramenta é simples, mas eu fico imaginando outras pessoas que não tem tanta intimidade com o terminal não sei se é tão fácil assim. 
+
+* Prefere executar através de linha de comando ou menu interativo?
+
+Em geral eu utilizo o `limarka menu` (menu interativo), nem sabia que tinha outra opção.
+
+* Quais documentações você consultou?
+    * Wiki / Abntex / Latex / Outras
+
+R Markdown no site, como inserir arquivo pdf e abntex para citar. Nesse meu trabalho não tive necessidade de consultar outras documentações.
+
+* Quais recursos utilizou? Como foi sua utilização?
+    * Capa, Folha de rosto, Resumo, Abstract. Todos esses. Foi bem simples no pdf de configuração.
+    * Listas: Figuras, Tabelas, Siglas. Só as siglas. Tive problema que era um BUG, mas depois de corrigido está tudo bem.
+    * Citação indireta/direta/com mais de três linhas. Eu uso o `\cite` e o `\citeauthor` quando eu cito no texto. 
+    * Referências. No início tinha o problema que quando utilizava os ":" não ficava formatado o subtítulo. Quando gerava o bibtex no Mendeley ele gerava duas chaves "{{" no título. Era um BUG que foi corrigido.
+    - Figuras. Ja utilizei, conforme escrito na página. Não entendi porque é diferente do R Markdown, imagino que no latex deve ter mais opções. No Markdown não dá para colocar duas figuras ao lado da outra. As revistas da área exigem o Word.
+    - Quadro/Tabelas. Não utilizou.
+    - Apêndices/Anexos. Não utilizou.
+    - Folha de aprovação. Não utilizou.
+    - Ficha catalográfica. Não utilizou.
+    - Errata. Não utilizou.
+    - Código/Algoritmo. Não utilizou.
+    - Códigos latex customizados. Não utilizou.
+
+## Sobre Markdown
+
+- O que você achou de utilizar Markdown para escrita de um TCC?
+Bem mais simples que o latex.
+
+- Quais os benefícios decorrentes da utilização de Markdown para escrita de um TCC?
+Me parece que vai ser uma das linguagens mais utilizadas de agora e diante, com a uma curva de aprendizagem bem menor que o latex. Não se preocupar tanto com a formatação, mais simples, organizado.
+
+- Quais os problemas  decorrentes da utilização de Markdown para escrita de um TCC?
+O problema é se o orientador não gostar muito. Não cheguei a mostrar para orientador. Ele incentivou a aprender R Markdown. Mas acho que é perda de tempo escrever em Markdown, pois ele se interessa por R Markdown devido a reprodutibilidade e uma dissertação não é reprodutível, então não haveria necessidade de escrever em R Markdown. Para quem utiliza o Linux, ter que utilizar o MS Word é um saco. Daí se não aceitam o formato do LibreOffice, 
+Se tiver que fazer no word, toda vez que eu preciso inserir uma referência, aí eu preciso iniciar virtualizar o Word no Virtual Box para poder editar e salvar no Word, para manter as referências com o Mendelay. Então eu mando para o orientador ou outro pessoa revisar. Daí em geral o pessoal usa o Word, que é o padrão.
+
+- Qual o perfil de pessoa que iria gostar de utilizar Markdown para elaboração de um TCC?
+
+São pessoas que gostem um pouco mais de programação e que estão dispostas a aprender uma coisa nova, tem que ter uma certa linha de aprendizado, não pode deixar para última hora. Ter alguma intimidade com informática e programação, eu tenho só um pouco. E disposição para ler a documentação para aprender a utilizar o programa. Porque é algo diferente do que estamos acostumados.
+
+Se eu não tivesse utilizado o R Markdown antes, se eu não conhecesse, provavelmente eu não utilizaria o Markdown no TCC.
+
+- O seu conhecimento prévio sobre as normas da ABNT influiu na preferência por utilização de Markdown para elaboração do TCC?
+
+Eu acho que a ausência do conhecimento sim. Eu podia formatar no Word, mas acho que me tomaria um tempo. E pelo menos os textos que eu vi formatado no Latex eles são mais bonitos e atrativos o PDF.
+
+- O suporte e manutenção da ferramenta influenciou na escolha de utilizá-la?
+
+Sim, eu fiz um teste antes e fui respondido muito rápido, então deu para ver que era confiável.
+
+- Resumo em uma única frase sobre experiência com a utilização da Ferramenta para elaborar o TCC.
+
+Os outros programas de pós-graduação deveriam estimular mais o uso. O resultado final superior ao do Word e mais simples também.
+
+Me preocupar mais com o texto e menos com a formatação.
