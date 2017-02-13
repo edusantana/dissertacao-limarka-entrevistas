@@ -1,0 +1,155 @@
+# Entrevistas realizada com o Usuário 2
+
+## Background e perfil do usuário
+
+- Qual sua Formação Acadêmica?
+
+> Graduação em Ciências Sociais pela Universidade de Pernambuco, atualmente estou terminando um mestrado em Antropologia na Universidade Federal da Paraíba.
+
+- Qual sua experiência profissional?
+
+Atualmente só estou estudando, dedicação exclusiva ao mestrado. Mas em trabalhos anteriores eu sempre trabalhei com ONGs na área de inclusão digital. Desde de escrever projeto a executar oficinas, a maioria com Softwares Livre e também vinculadas a políticas governamentais de cultura digital e pontos de cultura.
+
+- Qual sua experiência na Escrita Científica?
+
+Eu tenho três artigos publicados. Na graduação não fiz TCC, na licenciatura eu não precisei. Ou fazia o TCC ou fazia uma experiência numa escola. Como na época minha orientadora ficou doente, eu preferi fazer a experiência na escola, dois estágios orientados. Fora isso, um capítulo de livro e três artigos. Em todos eles precisei contemplar as Normas da ABNT.
+
+Escrevi eles no LibreOffice.
+
+- Em que pretende trabalhar quando se formar?
+
+Pretendo ser professor universitário.
+
+- Como você se relaciona com Informática e tecnologias?
+
+Minha relação vem do campo profissional, eu trabalho bastante com informática. As vezes faço *freelancer* de *sysadmin*. Como também na minha área de pesquisa, minha temática de pesquisa é trabalhar com a Antropologia da técnica e da tecnologias. São questões relativos ao uso das tecnologias da informação e comunicação etambém diversas outras coisas. Desde o trabalho acadêmcio, como também consultor de mapas, informações, artigos e tudo mais.
+
+- Qual sua afinidade para executar comandos de linha e instalar programas?
+
+Boa afinidade. Um expperiencia qe vem desdo do Windows do 3.11, eu utilizava muito o DOS. 
+
+- Quais editores de arquivo somente texto já utilizou? Quais são de sua preferência?
+
+Várias versões do Microsoft Word, o bloco de notas, o notepad. No Linux, já utilizei muito o GEdit, o Kate, o kwriter. Atualmente tenho utilizado muito o Vim. Atualmente estou tentando aprender o Vim.
+
+Eu tenho trabalhado muito com Markdown, então eu gosto de trabalhar com ele no Vim. 
+
+- Você utilizar alguma IDE no seu trabalho/estudo?
+
+Não. A 
+
+A única coisa que eu utilizei para Markdown foi um site, O [Stack Edit](https://stackedit.io). Eu insiro em Markdown e ele me mostra como seria a saída.
+
+- Descreve sua(s) experiência(s) prévia(s) com Latex.
+
+Começou por curiosidade, como sempre fui próximo da área de informática e engenharia, e colegas meus utilizaram e sempre me disseram que é melhor. E com experiência prévias com o LibreOffice eu sempre achei muito complicado aplicar as Normas da ABNT e também questões de formatação básica é como se ele não mantivesse a formatação em versões direfentes do arquivo [do aplicativo]. Por isso que eu decidi empreender um pouco do meu tempo para aprender o Latex.
+
+É o seguinte, geramente quando eu estou digitando no LibreOffice as vezes o meu orientador precisa [editar] do arquivo, aí eu mando para ele, só que ele não usa o LibreOffice, ele usa o Microsoft Office. Daí ele não consegue abrir certo. As vezes ele manda também para mim e eu não consigo abrir. E também tem minha namorada que utiliza dois computadores, e aí são duas versões do Word diferentes, e também tem esse problema da versão. Um Office é o 356 e o outro acho que é o 2013. Eles não se conversam muito bem. Ai são problemas que eu estou querendo correr.
+
+É por isso que eu tentei experimentar o Latex.
+
+- Descreve sua(s) experiência(s) prévia(s) com Markdown e/ou outras linguagens de marcação leve. Você sabe decorado quais sintaxes?
+
+Ultimamente a maoria das minhas notas eu tenho feito em Markdown. Porque as vezes eu vou publicar alguma coisa no meu Blog, eu utilizo um blog estático, que ler Markdown, aí fica melhor para formatar. Inclusive quando eu vou fazer anotações no próprio papel, eu utilizo as marcações porque quando eu vou consultar aí já tenho notação do que é negrito o que é itálico. E fora o Markdown eu já utilizei HTML, não sei se pode ser considerado. Eu sei decorado o básico das sintaxe de Markdown.
+
+
+- Descreve sua(s) experiência(s) prévia(s) com Github.
+
+Eu nunca fui programador, mas eu sempre achei interessante a atividade de programar. E aí desde que eu conheci gente utilizando o Github, acho que desde que o ele foi lançado que eu fiquei curioso. Aí eu decidi fazer uma conta no github, nem que fosse para colocar pequenas notas, alguns textos. Atualmente eu estou colocando meus arquivos de configuração do computador, mais para aprender a utilizar o Github. Eu tenho uma conta no Gitlab, porque aí ele permite ter um perfil de projeto privado. Então estou colocando a minha dissertação lá, e estou fazendo o versionamento dela. Utilizo há um ano.
+
+* Você sabe o que as normas da ABNT *fala* sobre os seguntes itens?
+	* Palavras em estrangeiro. Geralmente a gente não se debruça no manual como um todo. O que a gente faz é copiar o que seria da regra da ABNT de trabalhos prévios, e ir seguindo. No caso de palavras estranheiro, eu não sei citar normas mas eu sei que é aceitável na Antropologia e nas Ciências Sociais é que elas ficam em itálico.
+	* Citação indireta/direta. Citação'direta você tem que colocar, se for até três linhas fica no texto. Se for mais de três linhas ela fica isolada, com a margem 4. Entre um e outro seria um espaço simples. Seguido do nome do autor, com o ano e a página. Em maiúsculo. E citação indireta seria também em maiúsculo com ano. A citação direta dentro do também também em parênteses com a página e o ano e entre aspas. Tudo isso eu sabia asntes de utilizar o Limarka.
+	* Citação com mais/menos de três linhas. 
+	* Referências Artigo/Livro/Site. O básico seria o sobremeno, nome doautor. aí o nome do texto, da parte do capítulo que vai ser utilizado, em negrito. Aí depois eu vi na norma que não necessariamente é em negrito. Tem que está destacado de alguma forma. Seguido de aonde está a obra, seguida de outras informações como se foi trablho academico, que trqabalho é. Editora, nome da cidade e o ano. Eu consulto as normas para Referências através de manuais de universidade.
+	* Figura. Ainda não pesquisei, porque ainda não utilizei.
+	* Tabela/Quadro. Também não, não sei a diferença.
+	* Apêndices/Anexos. O apendice é quando é de sua autoria, e o anexo não. Não sei o que as normas da ABNT fala sobre eles.
+
+
+
+## Sobre utilização do limarka na elaboração do TCC
+
+* Qual a temática do seu TCC?
+
+Análise das relações inter-etinicas entre uma aldeia indigena que fica na Bahia, no extremo sul, em Porto Seguro. E um projeto de inclusão digital. A pesquisa é sobre a análise sobre esse encontro, com a ótica das relações tecnicas e tecnológicas que se deu a partir daí.
+
+* Como você encontrou o limarka? 
+
+Eu conheci através do grupo de discussão do latex-br, fui tirar uma dúvida lá e fui apresentado ao limarka. Daí com eu gosto de Markdown eu fiquei empolgado para testar e conheci o projeto a partir daí.
+
+* O que despertou o seu interesse pelo limarka?
+
+Foi o fato dele utilizar MArkdown.
+
+* Qual ambiente utilizado? Sistema operacional, Editor de texto, Leitor de PDF e Editor de Referência.
+
+Linux. Arch Linux. Utilizo no Vim, sendo que estou começando a testar o tecestudio o kaile. Evince para ler e para fazer marcação eu utilizo o Okular. eu prefiro fazer as referências na mão, mas de vez em quando eu utilizo o  Jabref.
+
+* Como você se sentiu ao utilizar a limarka para elaboração do seu trabalho?
+
+Como primeira experiência eu achei muito didática, principalmente a parte de configuração. Você tem um PDF para editar e colocar as informações aonde você quer e ele gerar o PDF com essas informações escritas. E também o fato de você utilizar Markdown. Isso para mim facilitou um pouquinho a curva de aprendizado que eu estava fazendo, no caso do Latex. Aí eu fiquei meio que numa zona comum, pelo fato de utilizar Markdown.
+
+* Como foi para você a utilização de formulário PDF para configurar o trabalho?
+
+Achei muito interessante, eu mostrei para minha namorada que é Leiga no assunto, e ela ficou maravilhada pela facilidade de utilizar.
+
+* Como foi para você execução da ferramenta?
+
+A execuco foi tranquila. Mas eu tenho um pouco de experiencia com linhas de comando. Foi fácil ir atrás de todas as dependências. Tive que compilar uma outra coisa, e também fazer a instalação pelo Ruby. Para mim foi tranquilo.
+ 
+* Prefere executar através de linha de comando ou menu interativo?
+
+Nào testei o menu interativo.
+
+* Quais documentações você consultou?
+    * Wiki / Abntex / Latex / Outras
+
+O Wiki, que é muito bem explicado. E coisas pontuais eu utilizei a ferramenta de bate-papo do limarka, o Gitter. E Abntex para citações. Até agora nào precisei consultar documentação sobre o Latex, durante a utilização do limarka.
+
+* Quais recursos utilizou? Como foi sua utilização?
+    * Capa, Folha de rosto, Resumo, Abstract. Uma coisa que estou achando interessante em fazer a dissertação e utilizar o abntex é que estou aprendendo um pouco mais sobre a ABNT. E uma coisa que eu descobri é que, falando nas Ciências Humanas em geral, é como se as instituições utilizassem um padrão próprio que está linkado a ABNT, mas não segue a norma mãe. E estou tendo tendo um pouco de dificuldade com várias questões, como Capa, Folha de Rosto. Sumário também. Além das Ciências Humanas, muitas coisas também vai no gosto do Orientado. Você pega várias dissertações do mesmo programa de pós, e você ver algumas coisas diferentes. Isso pode ser uma besteira, ao fazer num Editor de texto comum, mas pelo fato de está utilizando o limarka e o latex, fica um pouco complicado de customizar. E se tornou um paradoxo para mim, porque eu decidi utilizar o latex e limarka também justamente para fugir das Normas da ABNT, não era uma coisa que eu queria me preocupar. Eu queria colocar o meu conteúdo lá e não me preocupar com as Normas da ABNT, queria me preocupar com o conteúdo mesmo da pesquisa. E eu estou precisando ter que pesquisar bastante as normas da ABNT para adequá-las para o que o programa e o orientador querem. De um lado nós temos a ABNT, do outro o programa e do outro o Orientador. Eu tou falando baseado em outros orientados que já se formaram, que ele [o orientador] sempre colocou como referência as dissertações e teses publicadas no programa. Eu gerei o PDF e vi que não tá igual ao que é requisitado pelo Programa-Orientador. Aí eu vou perguntar em listas de discussões ou qualquer outro canal de dúvidas, como também no Gitter do limarka, aí eu descubro que está certo o que o limarka foi gerado para mim. Aí eu tenho que utilizar um meio termo, para adaptar o limarka para as minhas necessidades.
+    Fazer o resumo foi muito fácil. Abstart também.
+    * Listas: Figuras, Tabelas, Siglas. ainda não trabalhei, mas testei as listas de siglas.
+    * Citação indireta/direta/com mais de três linhas. Ainda não testou.
+    * Referências. Na realidade eu estou portando a qualificação, que foi feita em libreoffice, e estou migrando ele para o limarka. Só que estou precisando voltar a campo. Eu passei a introdução e primeira parte do capítulo. Eu tive que parar um pouco.
+    - Figuras. Não utilizou.
+    - Quadro/Tabelas. Não utilizou.
+    - Apêndices/Anexos. Não utilizou.
+    - Folha de aprovação. Não utilizou.
+    - Ficha catalográfica. Não utilizou.
+    - Errata. Não utilizou.
+    - Código/Algoritmo. Não utilizou.
+    - Códigos latex customizados. A única coisa que fiz foi utilizar um template customizado que foi elaborado pelo suporte da ferramenta. 
+
+## Sobre Markdown
+
+- O que você achou de utilizar Markdown para escrita de um TCC?
+
+Achei a ideia muito boa. Pq para mim é mais prático fazer tudo no teclado, utilizar menos o mouse. Você criar as seções, os capítulos e subtópicos, negrito, itálico, fazer tudo isso no teclado é bem mais prático.
+
+- Quais os benefícios decorrentes da utilização de Markdown para escrita de um TCC?
+
+Me poupa tempo. Menos o mouse. Trabalhar com arquivos menores, com arquivos mais leves, não precisa de trabalhar com o libreoffice, basta um editor de texto simples. Ambiente mais leve.
+
+- Quais os problemas  decorrentes da utilização de Markdown para escrita de um TCC?
+
+O fato de não ver em tempo real como está ficando o texto que está sendo produzido. Interface com orientado, mas eu já tinha pré-combinado com ele quando eu estava aprendendo o Latex, que eu iria mandar para ele as coisas em PDF. Uma coisa que aconteceu a pouco, eu fui mandar um artigo para ele e ele pediu que o artigo estivesse em .doc, mas era exigência da editora. Se fosse para mandar um artigo em PDF eu utilizaria em Limarka.
+
+- Qual o perfil de pessoa que iria gostar de utilizar Markdown para elaboração de um TCC?
+
+É pq não vi instalação no Windows. Acho que se ele conseguisse ficar mais fácil de executar, acho que ele conquistaria muita gente. É como se fosse a regra das pessas nessa épooca de TCC, é das pesssoas s epreocuparem muito com a escrita, e se torna muito difícil. Já vi gente chorando, ao necessitar formatar o trabalho, pagando pessoas para adequar as normas da ABNT. Entre essas coisas. Sempre um momento difícil.
+
+Todas pessoas que estão para fazer uma dissertação e estariam dispostas a aprender uma coisa diferente, é investir um pouco para algo que vai facilitar lá na frente an sua vida. Alguém curioso, ou alguém que não queira ter trabalho com as normas da ABNT.
+
+- O seu conhecimento prévio sobre as normas da ABNT influiu na preferência por utilização de Markdown para elaboração do TCC?
+
+O Markdown não, mas o limarka sim.
+
+- O suporte e manutenção da ferramenta influenciou na escolha de utilizá-la?
+
+Sim. O canal da ferramenta é bastante ativo. Influenciou na escolha também, pq a primeira dificuldade que eu tive que era algo sério, que era algo que o limarka não fazia ele foi implementado, que era a questão da personalização da capa.
+
+- Resumo em uma única frase sobre experiência com a utilização da Ferramenta para elaborar o TCC.
+
+Uniu o útil ao agradável. Eu já utilizava Markdown e agora me foi possibilitado utilizá-lo na dissertação.
